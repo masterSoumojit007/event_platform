@@ -5,12 +5,12 @@
 Welcome to the Events Application! This comprehensive, full-stack platform is built on Next.js 14, offering a wide range of features for managing events. Whether you're looking to discover new events or host your own, this platform has you covered.
 
 ## 📝 Table of Contents
-- [👋 Introduction](#introduction)
-- [⚙️ Tech Stack](#tech-stack)
-- [🔥 Features](#features)
-- [🚀 Getting Started](#getting-started)
-- [🤝 Contributing](#contributing)
-- [📄 License](#license)
+- [👋 Introduction](#-introduction)
+- [⚙️ Tech Stack](#-tech-stack)
+- [🔥 Features](#-features)
+- [🚀 Getting Started](#-getting-started)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ## 👋 Introduction
 The Events Application serves as a hub for diverse events taking place globally. With seamless payment processing through Stripe, users can purchase tickets for any event or even initiate and manage their own events. If you need assistance or encounter any bugs, feel free to join our active Discord community with over 27k+ members.
