@@ -10,7 +10,6 @@ Welcome to the Events Application! This comprehensive, full-stack platform is bu
 - [🔥 Features](#-features)
 - [🚀 Getting Started](#-getting-started)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 
 ## 👋 Introduction
 The Events Application serves as a hub for diverse events taking place globally. With seamless payment processing through Stripe, users can purchase tickets for any event or even initiate and manage their own events. If you need assistance or encounter any bugs, feel free to join our active Discord community with over 27k+ members.
@@ -68,5 +67,3 @@ To get started with the Events Application, follow these steps:
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or pull requests to improve the Events Application.
 
-## 📄 License
-This project is licensed under the [MIT License](LICENSE).
